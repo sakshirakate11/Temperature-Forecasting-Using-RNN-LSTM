@@ -2,8 +2,9 @@
 
 ## Project Overview
 
-This project implements a Temperature Forecasting System using a Long Short-Term Memory (LSTM) based Recurrent Neural Network (RNN). The model is trained on historical climate data to predict future temperature values. Time-series forecasting is performed using deep learning techniques to capture temporal patterns and trends in temperature data.
+This project implements a Temperature Forecasting System using a Long Short-Term Memory (LSTM) based Recurrent Neural Network (RNN). The model is trained on historical climate data to predict future temperature values. Time-series forecasting is performed using deep learning techniques to capture temporal patterns and trends in temperature data.[
 
+](https://github.com/sakshirakate11/Temperature-Forecasting-Using-RNN-LSTM/blob/main/Temperature_Forecasting_using_RNN.ipynb)
 ## Aim
 
 To develop a temperature forecasting model using LSTM networks for accurate prediction of future temperature values from historical weather data.
